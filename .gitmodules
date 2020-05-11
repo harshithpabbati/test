@@ -1,0 +1,3 @@
+[submodule "customQL"]
+	path = customQL
+	url = https://github.com/harshithpabbati/customQL
